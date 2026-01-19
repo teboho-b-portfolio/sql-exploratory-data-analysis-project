@@ -2,7 +2,7 @@
 
 This project focuses on exploring and analysing a cleaned layoffs dataset to uncover trends, patterns, and insights using SQL.
 
-### Dataset:
+## Dataset:
 Layoffs 2022 – Kaggle
 https://www.kaggle.com/datasets/swaptr/layoffs-2022
 
